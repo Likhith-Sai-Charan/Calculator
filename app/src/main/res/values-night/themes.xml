@@ -5,6 +5,9 @@
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
         <item name="colorPrimary">#FF9800</item>
         <item name="colorPrimaryVariant">#FFC107</item>
-        <item name="colorOnPrimary">#CFCACA</item>
+        <item name="colorOnPrimary">@color/black</item>
+
     </style>
+
+    <style name="Theme.Calculator" parent="Base.Theme.Calculator" />
 </resources>
